@@ -1,2 +1,2 @@
 # avl-tree
-data structure project implementing all tree
+data structure project implementing avl tree
